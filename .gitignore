@@ -8,3 +8,19 @@ wheels/
 
 # Virtual environments
 .venv
+
+env/
+venv/
+
+.vscode/
+.idea/
+
+.env
+*.env
+
+*.log
+
+.ipynb_checkpoints/
+
+archive/
+
