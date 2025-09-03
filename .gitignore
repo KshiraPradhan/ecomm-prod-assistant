@@ -17,6 +17,7 @@ venv/
 
 .env
 *.env
+.env.copy
 
 *.log
 
